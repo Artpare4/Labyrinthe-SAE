@@ -7,7 +7,7 @@
 
 #### 1) SAE Labyrithe
 Dans les fichiers ```Maze.py``` et ```testMaze.py``` vous trouverez respectivement un fichier contenant la classe Maze et les
-méthodes répondants aux question de la SAE et dans le deuxième fichier nos tests qui nous on permis de tester nos
+méthodes permettant la création/édition/résolution de labyrinthes et dans le deuxième fichier nos tests qui nous on permis de tester nos
 méthodes.
 
 #### 2) Jeu labyrinthe
